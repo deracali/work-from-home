@@ -67,6 +67,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 24px;
 }
 nav .logo {
   width: 32px;
@@ -121,12 +122,12 @@ hero section styles
   border-radius: 8px;
 }
 .hero__photo1 {
-  top: 119px;
-  right: 250px;
+  top: 199px;
+  right: 390px;
 }
 .hero__photo2 {
-  top: 70px;
-  right: 20px;
+  top: 120px;
+  right: 150px;
 }
 /*
 blog section styles
